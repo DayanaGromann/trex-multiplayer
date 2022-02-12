@@ -1,0 +1,16 @@
+
+
+Implementação
+
+
+NA função clear() vai tirar o background.
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Programação dos jogadores
+
+Na classe player, temos que criar a função estática para obter as informações de todos os jogadores.
+chamar este método no método jogar da classe jogo.
+A criação e configuração dos sprites devem ser feitos no método iniciar, que é chamado só uma vez.
+A função drawSprites() deve ser chamada só no método jogar.
